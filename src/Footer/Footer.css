@@ -1,0 +1,17 @@
+
+
+.footerr{
+	min-height: 160px;
+	background: rgb(52, 58, 64);
+	text-align: center;
+	color: #f2f2f2;
+	padding-top: 30px;
+}
+
+.footerr img{
+
+	margin-right: 20px;
+
+	max-width: 60px;
+
+}

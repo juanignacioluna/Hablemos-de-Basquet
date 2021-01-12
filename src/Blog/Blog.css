@@ -1,0 +1,27 @@
+
+
+.info{
+	text-align: center;
+}
+
+.jumbotron{
+	border: 5px solid black;
+}
+
+.lead{
+	text-align: justify;
+}
+
+.posteo{
+	margin-bottom: 20px;
+}
+
+.posteoTexto{
+	color: black;
+}
+
+a:hover, a:visited, a:link, a:active{
+
+    text-decoration: none;
+    
+}
